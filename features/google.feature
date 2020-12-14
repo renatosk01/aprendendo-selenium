@@ -6,7 +6,7 @@ Funcionalidade: Realizar testes Google
   Quero poder realizar testes de cadastro no Google
   Para que eu treine a minha automação
 
-    @sanidade
+    @google
   Cenario: Validar página do google
     Dado que eu navego ate a url do google
     Quando a pagina é carregada do google
